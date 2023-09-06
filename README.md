@@ -1,3 +1,3 @@
 
 # Homepage-of-Netflix
-home page of netflic 
+home page of netflix 
