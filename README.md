@@ -1,3 +1,2 @@
-
 # Homepage-of-Netflix
-home page of netflix 
+A simple website having similar homepage that of Netflix using HTML, CSS, JAVASCRIPT.
